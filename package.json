@@ -1,0 +1,12 @@
+{
+  "name": "resume-autofill-pw",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "fill": "node src/index.js"
+  },
+  "dependencies": {
+    "playwright-core": "^1.48.0"
+  }
+}

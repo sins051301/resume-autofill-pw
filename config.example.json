@@ -1,0 +1,7 @@
+{
+  "geminiApiKey": "AIza... 여기에 본인 키 (https://aistudio.google.com → Get API key)",
+  "geminiModel": "gemini-flash-latest",
+  "geminiModels": ["gemini-3.6-flash", "gemini-flash-latest"],
+  "chromeChannel": "chrome",
+  "userDataDir": "./.userdata"
+}
